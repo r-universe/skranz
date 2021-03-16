@@ -7,3 +7,7 @@
 	path = restorepoint
 	url = https://github.com/skranz/restorepoint
 	shallow = true
+[submodule "glueformula"]
+	path = glueformula
+	url = https://github.com/skranz/glueformula
+	shallow = true
