@@ -3,6 +3,16 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "stringtools"]
+	path = stringtools
+	url = https://github.com/skranz/stringtools
+	shallow = true
+	branch = master
+[submodule "dbmisc"]
+	path = dbmisc
+	url = https://github.com/skranz/dbmisc
+	shallow = true
+	branch = master
 [submodule "glueformula"]
 	path = glueformula
 	url = https://github.com/skranz/glueformula
