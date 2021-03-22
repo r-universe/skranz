@@ -8,9 +8,9 @@
 	url = https://github.com/skranz/stringtools
 	shallow = true
 	branch = master
-[submodule "dbmisc"]
-	path = dbmisc
-	url = https://github.com/skranz/dbmisc
+[submodule "codeUtils"]
+	path = codeUtils
+	url = https://github.com/skranz/codeUtils
 	shallow = true
 	branch = master
 [submodule "glueformula"]
