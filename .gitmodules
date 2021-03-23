@@ -3,11 +3,6 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
-[submodule "bbsvg"]
-	path = bbsvg
-	url = https://github.com/skranz/bbsvg
-	shallow = true
-	branch = master
 [submodule "codeUtils"]
 	path = codeUtils
 	url = https://github.com/skranz/codeUtils
@@ -16,11 +11,6 @@
 [submodule "dbmisc"]
 	path = dbmisc
 	url = https://github.com/skranz/dbmisc
-	shallow = true
-	branch = master
-[submodule "ddsim"]
-	path = ddsim
-	url = https://github.com/skranz/ddsim
 	shallow = true
 	branch = master
 [submodule "dplyrExtras"]
@@ -136,10 +126,5 @@
 [submodule "stringtools"]
 	path = stringtools
 	url = https://github.com/skranz/stringtools
-	shallow = true
-	branch = master
-[submodule "symbeqs"]
-	path = symbeqs
-	url = https://github.com/skranz/symbeqs
 	shallow = true
 	branch = master
