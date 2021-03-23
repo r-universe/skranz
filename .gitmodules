@@ -13,9 +13,39 @@
 	url = https://github.com/skranz/codeUtils
 	shallow = true
 	branch = master
+[submodule "dbmisc"]
+	path = dbmisc
+	url = https://github.com/skranz/dbmisc
+	shallow = true
+	branch = master
 [submodule "glueformula"]
 	path = glueformula
 	url = https://github.com/skranz/glueformula
+	shallow = true
+	branch = master
+[submodule "rmdtools"]
+	path = rmdtools
+	url = https://github.com/skranz/rmdtools
+	shallow = true
+	branch = master
+[submodule "dplyrExtras"]
+	path = dplyrExtras
+	url = https://github.com/skranz/dplyrExtras
+	shallow = true
+	branch = master
+[submodule "RelationalContractsCpp"]
+	path = RelationalContractsCpp
+	url = https://github.com/skranz/RelationalContractsCpp
+	shallow = true
+	branch = master
+[submodule "gtree"]
+	path = gtree
+	url = https://github.com/skranz/gtree
+	shallow = true
+	branch = master
+[submodule "shinyEvents"]
+	path = shinyEvents
+	url = https://github.com/skranz/shinyEvents
 	shallow = true
 	branch = master
 [submodule "restorepoint"]
