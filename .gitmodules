@@ -68,8 +68,8 @@
 	url = https://github.com/skranz/rgmpl
 	shallow = true
 	branch = master
-[submodule "rowMins"]
-	path = rowMins
-	url = https://github.com/skranz/rowMins
+[submodule "rowmins"]
+	path = rowmins
+	url = https://github.com/skranz/rowmins
 	shallow = true
 	branch = master
