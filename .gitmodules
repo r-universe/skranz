@@ -38,6 +38,11 @@
 	url = https://github.com/skranz/RelationalContractsCpp
 	shallow = true
 	branch = master
+[submodule "RelationalContracts"]
+	path = RelationalContracts
+	url = https://github.com/skranz/RelationalContracts
+	shallow = true
+	branch = master
 [submodule "gtree"]
 	path = gtree
 	url = https://github.com/skranz/gtree
@@ -51,5 +56,20 @@
 [submodule "restorepoint"]
 	path = restorepoint
 	url = https://github.com/skranz/restorepoint
+	shallow = true
+	branch = master
+[submodule "RSGSolve"]
+	path = RSGSolve
+	url = https://github.com/skranz/RSGSolve
+	shallow = true
+	branch = master
+[submodule "rgmpl"]
+	path = rgmpl
+	url = https://github.com/skranz/rgmpl
+	shallow = true
+	branch = master
+[submodule "rowMins"]
+	path = rowMins
+	url = https://github.com/skranz/rowMins
 	shallow = true
 	branch = master
