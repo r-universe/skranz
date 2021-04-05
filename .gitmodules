@@ -18,11 +18,6 @@
 	url = https://github.com/skranz/dplyrExtras
 	shallow = true
 	branch = master
-[submodule "dyngame"]
-	path = dyngame
-	url = https://github.com/skranz/dyngame
-	shallow = true
-	branch = master
 [submodule "glueformula"]
 	path = glueformula
 	url = https://github.com/skranz/glueformula
