@@ -3,6 +3,12 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "xglue"]
+	path = xglue
+	url = https://github.com/skranz/xglue
+	shallow = true
+	branch = master
+	registered = true
 [submodule "codeUtils"]
 	path = codeUtils
 	url = https://github.com/skranz/codeUtils
