@@ -3,6 +3,12 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "RoundingMatters"]
+	path = RoundingMatters
+	url = https://github.com/skranz/RoundingMatters
+	shallow = true
+	branch = main
+	registered = true
 [submodule "xglue"]
 	path = xglue
 	url = https://github.com/skranz/xglue
