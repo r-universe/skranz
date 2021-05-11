@@ -3,6 +3,12 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "MetaStudies"]
+	path = MetaStudies
+	url = https://github.com/skranz/MetaStudies
+	shallow = true
+	branch = main
+	registered = true
 [submodule "RoundingMatters"]
 	path = RoundingMatters
 	url = https://github.com/skranz/RoundingMatters
