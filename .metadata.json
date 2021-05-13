@@ -1,0 +1,110 @@
+[
+  {
+    "package": "MetaStudies",
+    "oncran": false
+  },
+  {
+    "package": "RoundingMatters",
+    "oncran": false
+  },
+  {
+    "package": "xglue",
+    "oncran": false
+  },
+  {
+    "package": "codeUtils",
+    "oncran": false
+  },
+  {
+    "package": "dbmisc",
+    "oncran": false
+  },
+  {
+    "package": "dplyrExtras",
+    "oncran": false
+  },
+  {
+    "package": "glueformula",
+    "oncran": false
+  },
+  {
+    "package": "gtree",
+    "oncran": false
+  },
+  {
+    "package": "gtreeWebPlay",
+    "oncran": false
+  },
+  {
+    "package": "mlogitExtras",
+    "oncran": false
+  },
+  {
+    "package": "rampl",
+    "oncran": false
+  },
+  {
+    "package": "regtools",
+    "oncran": false
+  },
+  {
+    "package": "RelationalContracts",
+    "oncran": false
+  },
+  {
+    "package": "RelationalContractsCpp",
+    "oncran": false
+  },
+  {
+    "package": "repgame",
+    "oncran": false
+  },
+  {
+    "package": "restorepoint",
+    "oncran": true
+  },
+  {
+    "package": "rgmpl",
+    "oncran": false
+  },
+  {
+    "package": "rmdtools",
+    "oncran": false
+  },
+  {
+    "package": "rowmins",
+    "oncran": false
+  },
+  {
+    "package": "RSGSolve",
+    "oncran": false
+  },
+  {
+    "package": "RTutor",
+    "oncran": false
+  },
+  {
+    "package": "RTutorSAGI",
+    "oncran": false
+  },
+  {
+    "package": "shinyEvents",
+    "oncran": false
+  },
+  {
+    "package": "shinyEventsUI",
+    "oncran": false
+  },
+  {
+    "package": "sktools",
+    "oncran": false
+  },
+  {
+    "package": "skUtils",
+    "oncran": false
+  },
+  {
+    "package": "stringtools",
+    "oncran": false
+  }
+]

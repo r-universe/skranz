@@ -9,186 +9,159 @@
 	shallow = true
 	branch = main
 	registered = true
-	oncran = false
 [submodule "RoundingMatters"]
 	path = RoundingMatters
 	url = https://github.com/skranz/RoundingMatters
 	shallow = true
 	branch = main
 	registered = true
-	oncran = false
 [submodule "xglue"]
 	path = xglue
 	url = https://github.com/skranz/xglue
 	shallow = true
 	branch = main
 	registered = true
-	oncran = false
 [submodule "codeUtils"]
 	path = codeUtils
 	url = https://github.com/skranz/codeUtils
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "dbmisc"]
 	path = dbmisc
 	url = https://github.com/skranz/dbmisc
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "dplyrExtras"]
 	path = dplyrExtras
 	url = https://github.com/skranz/dplyrExtras
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "glueformula"]
 	path = glueformula
 	url = https://github.com/skranz/glueformula
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "gtree"]
 	path = gtree
 	url = https://github.com/skranz/gtree
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "gtreeWebPlay"]
 	path = gtreeWebPlay
 	url = https://github.com/skranz/gtreeWebPlay
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "mlogitExtras"]
 	path = mlogitExtras
 	url = https://github.com/skranz/mlogitExtras
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "rampl"]
 	path = rampl
 	url = https://github.com/skranz/rampl
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "regtools"]
 	path = regtools
 	url = https://github.com/skranz/regtools
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "RelationalContracts"]
 	path = RelationalContracts
 	url = https://github.com/skranz/RelationalContracts
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "RelationalContractsCpp"]
 	path = RelationalContractsCpp
 	url = https://github.com/skranz/RelationalContractsCpp
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "repgame"]
 	path = repgame
 	url = https://github.com/skranz/repgame
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "restorepoint"]
 	path = restorepoint
 	url = https://github.com/skranz/restorepoint
 	shallow = true
 	branch = master
 	registered = true
-	oncran = true
 [submodule "rgmpl"]
 	path = rgmpl
 	url = https://github.com/skranz/rgmpl
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "rmdtools"]
 	path = rmdtools
 	url = https://github.com/skranz/rmdtools
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "rowmins"]
 	path = rowmins
 	url = https://github.com/skranz/rowmins
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "RSGSolve"]
 	path = RSGSolve
 	url = https://github.com/skranz/RSGSolve
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "RTutor"]
 	path = RTutor
 	url = https://github.com/skranz/RTutor
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "RTutorSAGI"]
 	path = RTutorSAGI
 	url = https://github.com/skranz/RTutorSAGI
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "shinyEvents"]
 	path = shinyEvents
 	url = https://github.com/skranz/shinyEvents
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "shinyEventsUI"]
 	path = shinyEventsUI
 	url = https://github.com/skranz/shinyEventsUI
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "sktools"]
 	path = sktools
 	url = https://github.com/skranz/sktools
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "skUtils"]
 	path = skUtils
 	url = https://github.com/skranz/skUtils
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
 [submodule "stringtools"]
 	path = stringtools
 	url = https://github.com/skranz/stringtools
 	shallow = true
 	branch = master
 	registered = true
-	oncran = false
