@@ -1,110 +1,85 @@
 [
   {
-    "package": "MetaStudies",
-    "oncran": false
+    "package": "MetaStudies"
   },
   {
-    "package": "RoundingMatters",
-    "oncran": false
+    "package": "RoundingMatters"
   },
   {
-    "package": "xglue",
-    "oncran": false
+    "package": "xglue"
   },
   {
-    "package": "codeUtils",
-    "oncran": false
+    "package": "codeUtils"
   },
   {
-    "package": "dbmisc",
-    "oncran": false
+    "package": "dbmisc"
   },
   {
-    "package": "dplyrExtras",
-    "oncran": false
+    "package": "dplyrExtras"
   },
   {
-    "package": "glueformula",
-    "oncran": false
+    "package": "glueformula"
   },
   {
-    "package": "gtree",
-    "oncran": false
+    "package": "gtree"
   },
   {
-    "package": "gtreeWebPlay",
-    "oncran": false
+    "package": "gtreeWebPlay"
   },
   {
-    "package": "mlogitExtras",
-    "oncran": false
+    "package": "mlogitExtras"
   },
   {
-    "package": "rampl",
-    "oncran": false
+    "package": "rampl"
   },
   {
     "package": "regtools",
     "oncran": false
   },
   {
-    "package": "RelationalContracts",
-    "oncran": false
+    "package": "RelationalContracts"
   },
   {
-    "package": "RelationalContractsCpp",
-    "oncran": false
+    "package": "RelationalContractsCpp"
   },
   {
-    "package": "repgame",
-    "oncran": false
+    "package": "repgame"
   },
   {
     "package": "restorepoint",
     "oncran": true
   },
   {
-    "package": "rgmpl",
-    "oncran": false
+    "package": "rgmpl"
   },
   {
-    "package": "rmdtools",
-    "oncran": false
+    "package": "rmdtools"
   },
   {
-    "package": "rowmins",
-    "oncran": false
+    "package": "rowmins"
   },
   {
-    "package": "RSGSolve",
-    "oncran": false
+    "package": "RSGSolve"
   },
   {
-    "package": "RTutor",
-    "oncran": false
+    "package": "RTutor"
   },
   {
-    "package": "RTutorSAGI",
-    "oncran": false
+    "package": "RTutorSAGI"
   },
   {
-    "package": "shinyEvents",
-    "oncran": false
+    "package": "shinyEvents"
   },
   {
-    "package": "shinyEventsUI",
-    "oncran": false
+    "package": "shinyEventsUI"
   },
   {
-    "package": "sktools",
-    "oncran": false
+    "package": "sktools"
   },
   {
-    "package": "skUtils",
-    "oncran": false
+    "package": "skUtils"
   },
   {
-    "package": "stringtools",
-    "oncran": false
+    "package": "stringtools"
   }
 ]
