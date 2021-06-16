@@ -3,6 +3,12 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "mlogitExtras"]
+	path = mlogitExtras
+	url = https://github.com/skranz/mlogitExtras
+	shallow = true
+	branch = master
+	registered = true
 [submodule "MetaStudies"]
 	path = MetaStudies
 	url = https://github.com/skranz/MetaStudies
@@ -54,12 +60,6 @@
 [submodule "gtreeWebPlay"]
 	path = gtreeWebPlay
 	url = https://github.com/skranz/gtreeWebPlay
-	shallow = true
-	branch = master
-	registered = true
-[submodule "mlogitExtras"]
-	path = mlogitExtras
-	url = https://github.com/skranz/mlogitExtras
 	shallow = true
 	branch = master
 	registered = true
