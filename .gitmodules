@@ -147,6 +147,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "shinyEventsLogin"]
+	path = shinyEventsLogin
+	url = https://github.com/skranz/shinyEventsLogin
+	shallow = true
+	branch = master
+	registered = true
 [submodule "sktools"]
 	path = sktools
 	url = https://github.com/skranz/sktools
