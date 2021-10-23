@@ -3,6 +3,15 @@
     "package": "mlogitExtras"
   },
   {
+    "package": "ParallelTrendsPlot"
+  },
+  {
+    "package": "shinyEventsPushMessage"
+  },
+  {
+    "package": "shinyChatQuiz"
+  },
+  {
     "package": "MetaStudies"
   },
   {

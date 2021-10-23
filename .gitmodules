@@ -9,6 +9,24 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "ParallelTrendsPlot"]
+	path = ParallelTrendsPlot
+	url = https://github.com/skranz/ParallelTrendsPlot
+	shallow = true
+	branch = main
+	registered = true
+[submodule "shinyEventsPushMessage"]
+	path = shinyEventsPushMessage
+	url = https://github.com/skranz/shinyEventsPushMessage
+	shallow = true
+	branch = master
+	registered = true
+[submodule "shinyChatQuiz"]
+	path = shinyChatQuiz
+	url = https://github.com/skranz/shinyChatQuiz
+	shallow = true
+	branch = master
+	registered = true
 [submodule "MetaStudies"]
 	path = MetaStudies
 	url = https://github.com/skranz/MetaStudies
