@@ -9,6 +9,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "distRforest"]
+	path = distRforest
+	url = https://github.com/skranz/distRforest
+	shallow = true
+	branch = master
+	registered = true
 [submodule "ParallelTrendsPlot"]
 	path = ParallelTrendsPlot
 	url = https://github.com/skranz/ParallelTrendsPlot
