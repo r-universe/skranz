@@ -3,6 +3,9 @@
     "package": "mlogitExtras"
   },
   {
+    "package": "synthdid"
+  },
+  {
     "package": "distRforest"
   },
   {

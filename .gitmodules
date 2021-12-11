@@ -9,6 +9,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "synthdid"]
+	path = synthdid
+	url = https://github.com/skranz/synthdid
+	shallow = true
+	branch = master
+	registered = true
 [submodule "distRforest"]
 	path = distRforest
 	url = https://github.com/skranz/distRforest
