@@ -6,6 +6,9 @@
     "package": "synthdid"
   },
   {
+    "package": "xsynthdid"
+  },
+  {
     "package": "distRforest"
   },
   {

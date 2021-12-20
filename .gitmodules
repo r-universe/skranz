@@ -15,6 +15,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "xsynthdid"]
+	path = xsynthdid
+	url = https://github.com/skranz/xsynthdid
+	shallow = true
+	branch = main
+	registered = true
 [submodule "distRforest"]
 	path = distRforest
 	url = https://github.com/skranz/distRforest
