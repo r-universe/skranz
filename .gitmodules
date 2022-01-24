@@ -15,6 +15,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "umlaute"]
+	path = umlaute
+	url = https://github.com/skranz/umlaute
+	shallow = true
+	branch = main
+	registered = true
 [submodule "xsynthdid"]
 	path = xsynthdid
 	url = https://github.com/skranz/xsynthdid
