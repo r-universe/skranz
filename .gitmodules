@@ -3,6 +3,12 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "dyplot"]
+	path = dyplot
+	url = https://github.com/skranz/dyplot
+	shallow = true
+	branch = main
+	registered = true
 [submodule "RStudioStataConsole"]
 	path = RStudioStataConsole
 	url = https://github.com/skranz/RStudioStataConsole
