@@ -3,6 +3,12 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "phack"]
+	path = phack
+	url = https://github.com/skranz/phack
+	shallow = true
+	branch = main
+	registered = true
 [submodule "dyplot"]
 	path = dyplot
 	url = https://github.com/skranz/dyplot

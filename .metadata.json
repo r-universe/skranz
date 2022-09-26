@@ -1,5 +1,8 @@
 [
   {
+    "package": "phack"
+  },
+  {
     "package": "dyplot"
   },
   {
