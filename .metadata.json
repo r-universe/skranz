@@ -1,5 +1,11 @@
 [
   {
+    "package": "gpt4r"
+  },
+  {
+    "package": "mygpt"
+  },
+  {
     "package": "phack"
   },
   {

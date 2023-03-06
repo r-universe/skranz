@@ -3,6 +3,18 @@
 	url = https://github.com/skranz/universe
 	shallow = true
 	branch = HEAD
+[submodule "gpt4r"]
+	path = gpt4r
+	url = https://github.com/skranz/gpt4r
+	shallow = true
+	branch = main
+	registered = true
+[submodule "mygpt"]
+	path = mygpt
+	url = https://github.com/skranz/mygpt
+	shallow = true
+	branch = main
+	registered = true
 [submodule "phack"]
 	path = phack
 	url = https://github.com/skranz/phack
