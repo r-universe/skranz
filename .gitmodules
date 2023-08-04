@@ -1,245 +1,164 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/skranz/universe
-	shallow = true
 	branch = HEAD
-[submodule "gpt4r"]
-	path = gpt4r
-	url = https://github.com/skranz/gpt4r
-	shallow = true
-	branch = main
-	registered = true
-[submodule "mygpt"]
-	path = mygpt
-	url = https://github.com/skranz/mygpt
-	shallow = true
-	branch = main
-	registered = true
-[submodule "phack"]
-	path = phack
-	url = https://github.com/skranz/phack
-	shallow = true
-	branch = main
-	registered = true
-[submodule "dyplot"]
-	path = dyplot
-	url = https://github.com/skranz/dyplot
-	shallow = true
-	branch = main
-	registered = true
-[submodule "RStudioStataConsole"]
-	path = RStudioStataConsole
-	url = https://github.com/skranz/RStudioStataConsole
-	shallow = true
-	branch = main
-	registered = true
-[submodule "mlogitExtras"]
-	path = mlogitExtras
-	url = https://github.com/skranz/mlogitExtras
-	shallow = true
-	branch = master
-	registered = true
-[submodule "synthdid"]
-	path = synthdid
-	url = https://github.com/skranz/synthdid
-	shallow = true
-	branch = master
-	registered = true
-[submodule "umlaute"]
-	path = umlaute
-	url = https://github.com/skranz/umlaute
-	shallow = true
-	branch = main
-	registered = true
-[submodule "xsynthdid"]
-	path = xsynthdid
-	url = https://github.com/skranz/xsynthdid
-	shallow = true
-	branch = main
-	registered = true
-[submodule "distRforest"]
-	path = distRforest
-	url = https://github.com/skranz/distRforest
-	shallow = true
-	branch = master
-	registered = true
-[submodule "ParallelTrendsPlot"]
-	path = ParallelTrendsPlot
-	url = https://github.com/skranz/ParallelTrendsPlot
-	shallow = true
-	branch = main
-	registered = true
-[submodule "shinyEventsPushMessage"]
-	path = shinyEventsPushMessage
-	url = https://github.com/skranz/shinyEventsPushMessage
-	shallow = true
-	branch = master
-	registered = true
-[submodule "shinyChatQuiz"]
-	path = shinyChatQuiz
-	url = https://github.com/skranz/shinyChatQuiz
-	shallow = true
-	branch = master
-	registered = true
 [submodule "MetaStudies"]
 	path = MetaStudies
 	url = https://github.com/skranz/MetaStudies
-	shallow = true
 	branch = main
-	registered = true
-[submodule "RoundingMatters"]
-	path = RoundingMatters
-	url = https://github.com/skranz/RoundingMatters
-	shallow = true
+[submodule "ParallelTrendsPlot"]
+	path = ParallelTrendsPlot
+	url = https://github.com/skranz/ParallelTrendsPlot
 	branch = main
-	registered = true
-[submodule "xglue"]
-	path = xglue
-	url = https://github.com/skranz/xglue
-	shallow = true
-	branch = main
-	registered = true
-[submodule "codeUtils"]
-	path = codeUtils
-	url = https://github.com/skranz/codeUtils
-	shallow = true
-	branch = master
-	registered = true
-[submodule "dbmisc"]
-	path = dbmisc
-	url = https://github.com/skranz/dbmisc
-	shallow = true
-	branch = master
-	registered = true
-[submodule "dplyrExtras"]
-	path = dplyrExtras
-	url = https://github.com/skranz/dplyrExtras
-	shallow = true
-	branch = master
-	registered = true
-[submodule "glueformula"]
-	path = glueformula
-	url = https://github.com/skranz/glueformula
-	shallow = true
-	branch = master
-	registered = true
-[submodule "gtree"]
-	path = gtree
-	url = https://github.com/skranz/gtree
-	shallow = true
-	branch = master
-	registered = true
-[submodule "gtreeWebPlay"]
-	path = gtreeWebPlay
-	url = https://github.com/skranz/gtreeWebPlay
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rampl"]
-	path = rampl
-	url = https://github.com/skranz/rampl
-	shallow = true
-	branch = master
-	registered = true
-[submodule "regtools"]
-	path = regtools
-	url = https://github.com/skranz/regtools
-	shallow = true
-	branch = master
-	registered = true
-[submodule "RelationalContracts"]
-	path = RelationalContracts
-	url = https://github.com/skranz/RelationalContracts
-	shallow = true
-	branch = master
-	registered = true
-[submodule "RelationalContractsCpp"]
-	path = RelationalContractsCpp
-	url = https://github.com/skranz/RelationalContractsCpp
-	shallow = true
-	branch = master
-	registered = true
-[submodule "repgame"]
-	path = repgame
-	url = https://github.com/skranz/repgame
-	shallow = true
-	branch = master
-	registered = true
-[submodule "restorepoint"]
-	path = restorepoint
-	url = https://github.com/skranz/restorepoint
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rgmpl"]
-	path = rgmpl
-	url = https://github.com/skranz/rgmpl
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rmdtools"]
-	path = rmdtools
-	url = https://github.com/skranz/rmdtools
-	shallow = true
-	branch = master
-	registered = true
-[submodule "rowmins"]
-	path = rowmins
-	url = https://github.com/skranz/rowmins
-	shallow = true
-	branch = master
-	registered = true
 [submodule "RSGSolve"]
 	path = RSGSolve
 	url = https://github.com/skranz/RSGSolve
-	shallow = true
 	branch = master
-	registered = true
+[submodule "RStudioStataConsole"]
+	path = RStudioStataConsole
+	url = https://github.com/skranz/RStudioStataConsole
+	branch = main
 [submodule "RTutor"]
 	path = RTutor
 	url = https://github.com/skranz/RTutor
-	shallow = true
 	branch = master
-	registered = true
 [submodule "RTutorSAGI"]
 	path = RTutorSAGI
 	url = https://github.com/skranz/RTutorSAGI
-	shallow = true
 	branch = master
-	registered = true
+[submodule "RelationalContracts"]
+	path = RelationalContracts
+	url = https://github.com/skranz/RelationalContracts
+	branch = master
+[submodule "RelationalContractsCpp"]
+	path = RelationalContractsCpp
+	url = https://github.com/skranz/RelationalContractsCpp
+	branch = master
+[submodule "RoundingMatters"]
+	path = RoundingMatters
+	url = https://github.com/skranz/RoundingMatters
+	branch = main
+[submodule "codeUtils"]
+	path = codeUtils
+	url = https://github.com/skranz/codeUtils
+	branch = master
+[submodule "dbmisc"]
+	path = dbmisc
+	url = https://github.com/skranz/dbmisc
+	branch = master
+[submodule "distRforest"]
+	path = distRforest
+	url = https://github.com/skranz/distRforest
+	branch = master
+[submodule "dplyrExtras"]
+	path = dplyrExtras
+	url = https://github.com/skranz/dplyrExtras
+	branch = master
+[submodule "dyplot"]
+	path = dyplot
+	url = https://github.com/skranz/dyplot
+	branch = main
+[submodule "glueformula"]
+	path = glueformula
+	url = https://github.com/skranz/glueformula
+	branch = master
+[submodule "gpt4r"]
+	path = gpt4r
+	url = https://github.com/skranz/gpt4r
+	branch = main
+[submodule "gtree"]
+	path = gtree
+	url = https://github.com/skranz/gtree
+	branch = master
+[submodule "gtreeWebPlay"]
+	path = gtreeWebPlay
+	url = https://github.com/skranz/gtreeWebPlay
+	branch = master
+[submodule "mlogitExtras"]
+	path = mlogitExtras
+	url = https://github.com/skranz/mlogitExtras
+	branch = master
+[submodule "mygpt"]
+	path = mygpt
+	url = https://github.com/skranz/mygpt
+	branch = main
+[submodule "phack"]
+	path = phack
+	url = https://github.com/skranz/phack
+	branch = main
+[submodule "rampl"]
+	path = rampl
+	url = https://github.com/skranz/rampl
+	branch = master
+[submodule "regtools"]
+	path = regtools
+	url = https://github.com/skranz/regtools
+	branch = master
+[submodule "repgame"]
+	path = repgame
+	url = https://github.com/skranz/repgame
+	branch = master
+[submodule "restorepoint"]
+	path = restorepoint
+	url = https://github.com/skranz/restorepoint
+	branch = master
+[submodule "rgmpl"]
+	path = rgmpl
+	url = https://github.com/skranz/rgmpl
+	branch = master
+[submodule "rmdtools"]
+	path = rmdtools
+	url = https://github.com/skranz/rmdtools
+	branch = master
+[submodule "rowmins"]
+	path = rowmins
+	url = https://github.com/skranz/rowmins
+	branch = master
+[submodule "shinyChatQuiz"]
+	path = shinyChatQuiz
+	url = https://github.com/skranz/shinyChatQuiz
+	branch = master
 [submodule "shinyEvents"]
 	path = shinyEvents
 	url = https://github.com/skranz/shinyEvents
-	shallow = true
 	branch = master
-	registered = true
-[submodule "shinyEventsUI"]
-	path = shinyEventsUI
-	url = https://github.com/skranz/shinyEventsUI
-	shallow = true
-	branch = master
-	registered = true
 [submodule "shinyEventsLogin"]
 	path = shinyEventsLogin
 	url = https://github.com/skranz/shinyEventsLogin
-	shallow = true
 	branch = master
-	registered = true
-[submodule "sktools"]
-	path = sktools
-	url = https://github.com/skranz/sktools
-	shallow = true
+[submodule "shinyEventsPushMessage"]
+	path = shinyEventsPushMessage
+	url = https://github.com/skranz/shinyEventsPushMessage
 	branch = master
-	registered = true
+[submodule "shinyEventsUI"]
+	path = shinyEventsUI
+	url = https://github.com/skranz/shinyEventsUI
+	branch = master
 [submodule "skUtils"]
 	path = skUtils
 	url = https://github.com/skranz/skUtils
-	shallow = true
 	branch = master
-	registered = true
+[submodule "sktools"]
+	path = sktools
+	url = https://github.com/skranz/sktools
+	branch = master
 [submodule "stringtools"]
 	path = stringtools
 	url = https://github.com/skranz/stringtools
-	shallow = true
 	branch = master
-	registered = true
+[submodule "synthdid"]
+	path = synthdid
+	url = https://github.com/skranz/synthdid
+	branch = master
+[submodule "umlaute"]
+	path = umlaute
+	url = https://github.com/skranz/umlaute
+	branch = main
+[submodule "xglue"]
+	path = xglue
+	url = https://github.com/skranz/xglue
+	branch = main
+[submodule "xsynthdid"]
+	path = xsynthdid
+	url = https://github.com/skranz/xsynthdid
+	branch = main
