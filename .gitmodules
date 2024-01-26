@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/skranz/universe
+	url = https://github.com/skranz/skranz.r-universe.dev
 	branch = HEAD
 [submodule "MetaStudies"]
 	path = MetaStudies
