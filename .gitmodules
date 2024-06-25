@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/skranz/skranz.r-universe.dev
 	branch = HEAD
+[submodule "EnergyChartsAPI"]
+	path = EnergyChartsAPI
+	url = https://github.com/skranz/EnergyChartsAPI
+	branch = main
 [submodule "MetaStudies"]
 	path = MetaStudies
 	url = https://github.com/skranz/MetaStudies
