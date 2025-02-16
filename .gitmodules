@@ -106,6 +106,10 @@
 	path = restorepoint
 	url = https://github.com/skranz/restorepoint
 	branch = master
+[submodule "rgemini"]
+	path = rgemini
+	url = https://github.com/skranz/rgemini
+	branch = main
 [submodule "rgmpl"]
 	path = rgmpl
 	url = https://github.com/skranz/rgmpl
