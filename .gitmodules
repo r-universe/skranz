@@ -118,6 +118,10 @@
 	path = rmdtools
 	url = https://github.com/skranz/rmdtools
 	branch = master
+[submodule "rmistral"]
+	path = rmistral
+	url = https://github.com/skranz/rmistral
+	branch = main
 [submodule "rowmins"]
 	path = rowmins
 	url = https://github.com/skranz/rowmins
