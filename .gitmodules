@@ -2,9 +2,17 @@
 	path = .registry
 	url = https://github.com/skranz/skranz.r-universe.dev
 	branch = HEAD
+[submodule "DataSchema"]
+	path = DataSchema
+	url = https://github.com/skranz/DataSchema
+	branch = main
 [submodule "EnergyChartsAPI"]
 	path = EnergyChartsAPI
 	url = https://github.com/skranz/EnergyChartsAPI
+	branch = main
+[submodule "FuzzyProduction"]
+	path = FuzzyProduction
+	url = https://github.com/skranz/FuzzyProduction
 	branch = main
 [submodule "MetaStudies"]
 	path = MetaStudies
@@ -41,6 +49,10 @@
 [submodule "RoundingMatters"]
 	path = RoundingMatters
 	url = https://github.com/skranz/RoundingMatters
+	branch = main
+[submodule "aikit"]
+	path = aikit
+	url = https://github.com/skranz/aikit
 	branch = main
 [submodule "codeUtils"]
 	path = codeUtils
