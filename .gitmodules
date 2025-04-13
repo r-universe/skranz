@@ -146,6 +146,10 @@
 	path = shinyEvents
 	url = https://github.com/skranz/shinyEvents
 	branch = master
+[submodule "shinyEventsCookies"]
+	path = shinyEventsCookies
+	url = https://github.com/skranz/shinyEventsCookies
+	branch = main
 [submodule "shinyEventsLogin"]
 	path = shinyEventsLogin
 	url = https://github.com/skranz/shinyEventsLogin
