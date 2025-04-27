@@ -74,6 +74,10 @@
 	path = dyplot
 	url = https://github.com/skranz/dyplot
 	branch = main
+[submodule "files2prompt"]
+	path = files2prompt
+	url = https://github.com/skranz/files2prompt
+	branch = main
 [submodule "glueformula"]
 	path = glueformula
 	url = https://github.com/skranz/glueformula
