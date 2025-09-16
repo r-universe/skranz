@@ -106,6 +106,10 @@
 	path = phack
 	url = https://github.com/skranz/phack
 	branch = main
+[submodule "pladj"]
+	path = pladj
+	url = https://github.com/skranz/pladj
+	branch = main
 [submodule "rampl"]
 	path = rampl
 	url = https://github.com/skranz/rampl
