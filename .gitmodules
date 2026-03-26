@@ -122,6 +122,9 @@
 	path = regtranslate
 	url = https://github.com/skranz/regtranslate
 	branch = main
+[submodule "repboxUtils"]
+	path = repboxUtils
+	url = https://github.com/repboxr/repboxUtils
 [submodule "repgame"]
 	path = repgame
 	url = https://github.com/skranz/repgame
