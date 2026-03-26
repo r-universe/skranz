@@ -118,6 +118,10 @@
 	path = regtools
 	url = https://github.com/skranz/regtools
 	branch = master
+[submodule "regtranslate"]
+	path = regtranslate
+	url = https://github.com/skranz/regtranslate
+	branch = main
 [submodule "repgame"]
 	path = repgame
 	url = https://github.com/skranz/repgame
@@ -178,6 +182,10 @@
 	path = sktools
 	url = https://github.com/skranz/sktools
 	branch = master
+[submodule "stata2r"]
+	path = stata2r
+	url = https://github.com/skranz/stata2r
+	branch = main
 [submodule "stringtools"]
 	path = stringtools
 	url = https://github.com/skranz/stringtools
