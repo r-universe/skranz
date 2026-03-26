@@ -10,9 +10,17 @@
 	path = EnergyChartsAPI
 	url = https://github.com/skranz/EnergyChartsAPI
 	branch = main
+[submodule "ExtractSciTab"]
+	path = ExtractSciTab
+	url = https://github.com/repboxr/extractSciTab
+	branch = main
 [submodule "FuzzyProduction"]
 	path = FuzzyProduction
 	url = https://github.com/skranz/FuzzyProduction
+	branch = main
+[submodule "GithubActions"]
+	path = GithubActions
+	url = https://github.com/repboxr/GithubActions
 	branch = main
 [submodule "MetaStudies"]
 	path = MetaStudies
@@ -94,6 +102,10 @@
 	path = gtreeWebPlay
 	url = https://github.com/skranz/gtreeWebPlay
 	branch = master
+[submodule "metaregBase"]
+	path = metaregBase
+	url = https://github.com/repboxr/metaregBase
+	branch = main
 [submodule "mlogitExtras"]
 	path = mlogitExtras
 	url = https://github.com/skranz/mlogitExtras
@@ -105,6 +117,10 @@
 [submodule "phack"]
 	path = phack
 	url = https://github.com/skranz/phack
+	branch = main
+[submodule "pkgFunIndex"]
+	path = pkgFunIndex
+	url = https://github.com/repboxr/pkgFunIndex
 	branch = main
 [submodule "pladj"]
 	path = pladj
@@ -122,9 +138,70 @@
 	path = regtranslate
 	url = https://github.com/skranz/regtranslate
 	branch = main
+[submodule "repboxAI"]
+	path = repboxAI
+	url = https://github.com/repboxr/repboxAI
+	branch = main
+[submodule "repboxCodeText"]
+	path = repboxCodeText
+	url = https://github.com/repboxr/repboxCodeText
+	branch = main
+[submodule "repboxDB"]
+	path = repboxDB
+	url = https://github.com/repboxr/repboxDB
+	branch = main
+[submodule "repboxDRF"]
+	path = repboxDRF
+	url = https://github.com/repboxr/repboxDRF
+	branch = main
+[submodule "repboxDoc"]
+	path = repboxDoc
+	url = https://github.com/repboxr/repboxDoc
+	branch = main
+[submodule "repboxEvaluate"]
+	path = repboxEvaluate
+	url = https://github.com/repboxr/repboxEvaluate
+	branch = main
+[submodule "repboxGithub"]
+	path = repboxGithub
+	url = https://github.com/repboxr/repboxGithub
+	branch = main
+[submodule "repboxHtml"]
+	path = repboxHtml
+	url = https://github.com/repboxr/repboxHtml
+	branch = main
+[submodule "repboxReg"]
+	path = repboxReg
+	url = https://github.com/repboxr/repboxReg
+	branch = main
+[submodule "repboxRfun"]
+	path = repboxRfun
+	url = https://github.com/repboxr/repboxRfun
+	branch = main
+[submodule "repboxRun"]
+	path = repboxRun
+	url = https://github.com/repboxr/repboxRun
+	branch = main
+[submodule "repboxStata"]
+	path = repboxStata
+	url = https://github.com/repboxr/repboxStata
+	branch = main
+[submodule "repboxStataReg"]
+	path = repboxStataReg
+	url = https://github.com/repboxr/repboxStataReg
+	branch = main
+[submodule "repboxTableTools"]
+	path = repboxTableTools
+	url = https://github.com/repboxr/repboxTableTools
+	branch = main
 [submodule "repboxUtils"]
 	path = repboxUtils
 	url = https://github.com/repboxr/repboxUtils
+	branch = main
+[submodule "repboxverse"]
+	path = repboxverse
+	url = https://github.com/repboxr/repboxverse
+	branch = main
 [submodule "repgame"]
 	path = repgame
 	url = https://github.com/skranz/repgame
@@ -185,6 +262,10 @@
 	path = sktools
 	url = https://github.com/skranz/sktools
 	branch = master
+[submodule "sourcemodify"]
+	path = sourcemodify
+	url = https://github.com/repboxr/sourcemodify
+	branch = main
 [submodule "stata2r"]
 	path = stata2r
 	url = https://github.com/skranz/stata2r
