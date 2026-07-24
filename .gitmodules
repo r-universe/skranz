@@ -62,6 +62,10 @@
 	path = aikit
 	url = https://github.com/skranz/aikit
 	branch = main
+[submodule "bbsvg"]
+	path = bbsvg
+	url = https://github.com/skranz/bbsvg
+	branch = master
 [submodule "codeUtils"]
 	path = codeUtils
 	url = https://github.com/skranz/codeUtils
@@ -101,6 +105,10 @@
 [submodule "gtreeWebPlay"]
 	path = gtreeWebPlay
 	url = https://github.com/skranz/gtreeWebPlay
+	branch = master
+[submodule "latexsvg"]
+	path = latexsvg
+	url = https://github.com/skranz/latexsvg
 	branch = master
 [submodule "metaregBase"]
 	path = metaregBase
